@@ -1,0 +1,13 @@
+Wheat Cultivation Guide (sample content for the AgriAssist demo; replace with an official extension guide before real use)
+
+Sowing. Timely sowing gives the best yield. In the northern plains of India, sowing in the second half of November is commonly recommended, and late sowing reduces yield. Use the sowing window and seed rate recommended for your region and variety.
+
+Critical irrigation stages. Wheat needs irrigation at its critical growth stages. These are crown root initiation, about 20 to 25 days after sowing; tillering; late jointing or flowering; and the milk to dough stage. If water is limited, give the first irrigation at crown root initiation as a priority.
+
+Nitrogen. Apply nitrogen in split doses, with part as basal and the rest with the first and second irrigations. Follow the dose from a soil test and local recommendation.
+
+Yellow rust. Yellow rust, also called stripe rust, shows as yellow powdery stripes on leaves. Monitor fields from January onwards, especially in cool, humid weather. Grow resistant varieties and apply a fungicide only as advised by the local agriculture office and used according to the label.
+
+Weed control. Remove weeds in the first 30 to 40 days, when competition is most harmful. Use a herbicide only if it is registered for wheat in your region and follow the label for dose and timing.
+
+Harvest. Harvest when the grain is hard and the straw has turned golden. Store grain only after it is dried to the moisture level recommended for safe storage.

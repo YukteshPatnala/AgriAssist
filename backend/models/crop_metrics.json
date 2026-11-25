@@ -1,0 +1,15 @@
+{
+  "data_source": "SYNTHETIC data generated from CROP_RANGES (pipeline test only)",
+  "rows": 900,
+  "test_rows": 180,
+  "test_accuracy": 1.0,
+  "per_class_f1": {
+    "banana": 1.0,
+    "chickpea": 1.0,
+    "cotton": 1.0,
+    "lentil": 1.0,
+    "maize": 1.0,
+    "rice": 1.0
+  },
+  "model": "RandomForestClassifier(n_estimators=200)"
+}

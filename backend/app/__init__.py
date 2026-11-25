@@ -1,0 +1,1 @@
+"""AgriAssist backend package."""

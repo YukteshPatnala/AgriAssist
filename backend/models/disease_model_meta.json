@@ -1,0 +1,54 @@
+{
+  "labels": {
+    "Tomato___Early_blight": {
+      "crop": "Tomato",
+      "condition": "Early Blight",
+      "healthy": false
+    },
+    "Tomato___Late_blight": {
+      "crop": "Tomato",
+      "condition": "Late Blight",
+      "healthy": false
+    },
+    "Tomato___Leaf_Mold": {
+      "crop": "Tomato",
+      "condition": "Leaf Mold",
+      "healthy": false
+    },
+    "Tomato___Septoria_leaf_spot": {
+      "crop": "Tomato",
+      "condition": "Septoria Leaf Spot",
+      "healthy": false
+    },
+    "Tomato___healthy": {
+      "crop": "Tomato",
+      "condition": "Healthy",
+      "healthy": true
+    },
+    "Potato___Early_blight": {
+      "crop": "Potato",
+      "condition": "Early Blight",
+      "healthy": false
+    },
+    "Potato___Late_blight": {
+      "crop": "Potato",
+      "condition": "Late Blight",
+      "healthy": false
+    },
+    "Potato___healthy": {
+      "crop": "Potato",
+      "condition": "Healthy",
+      "healthy": true
+    },
+    "Corn_(maize)___Common_rust_": {
+      "crop": "Corn (maize)",
+      "condition": "Common Rust",
+      "healthy": false
+    },
+    "Corn_(maize)___healthy": {
+      "crop": "Corn (maize)",
+      "condition": "Healthy",
+      "healthy": true
+    }
+  }
+}

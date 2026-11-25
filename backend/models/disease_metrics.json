@@ -1,0 +1,83 @@
+{
+  "dataset": "PlantVillage (spMohanty/PlantVillage-Dataset, raw/color)",
+  "classes": [
+    "Tomato___Early_blight",
+    "Tomato___Late_blight",
+    "Tomato___Leaf_Mold",
+    "Tomato___Septoria_leaf_spot",
+    "Tomato___healthy",
+    "Potato___Early_blight",
+    "Potato___Late_blight",
+    "Potato___healthy",
+    "Corn_(maize)___Common_rust_",
+    "Corn_(maize)___healthy"
+  ],
+  "images_per_class_max": 400,
+  "train_images": 3001,
+  "test_images": 751,
+  "test_accuracy": 0.8695,
+  "per_class": {
+    "Tomato___Early_blight": {
+      "precision": 0.7711,
+      "recall": 0.8,
+      "f1-score": 0.7853,
+      "support": 80.0
+    },
+    "Tomato___Late_blight": {
+      "precision": 0.7013,
+      "recall": 0.675,
+      "f1-score": 0.6879,
+      "support": 80.0
+    },
+    "Tomato___Leaf_Mold": {
+      "precision": 0.8816,
+      "recall": 0.8375,
+      "f1-score": 0.859,
+      "support": 80.0
+    },
+    "Tomato___Septoria_leaf_spot": {
+      "precision": 0.8354,
+      "recall": 0.825,
+      "f1-score": 0.8302,
+      "support": 80.0
+    },
+    "Tomato___healthy": {
+      "precision": 0.9512,
+      "recall": 0.975,
+      "f1-score": 0.963,
+      "support": 80.0
+    },
+    "Potato___Early_blight": {
+      "precision": 0.9241,
+      "recall": 0.9125,
+      "f1-score": 0.9182,
+      "support": 80.0
+    },
+    "Potato___Late_blight": {
+      "precision": 0.8068,
+      "recall": 0.8875,
+      "f1-score": 0.8452,
+      "support": 80.0
+    },
+    "Potato___healthy": {
+      "precision": 0.9231,
+      "recall": 0.7742,
+      "f1-score": 0.8421,
+      "support": 31.0
+    },
+    "Corn_(maize)___Common_rust_": {
+      "precision": 0.95,
+      "recall": 0.95,
+      "f1-score": 0.95,
+      "support": 80.0
+    },
+    "Corn_(maize)___healthy": {
+      "precision": 0.9877,
+      "recall": 1.0,
+      "f1-score": 0.9938,
+      "support": 80.0
+    }
+  },
+  "model": "StandardScaler + LogisticRegression on HOG + HSV histogram features",
+  "seed": 42
+}

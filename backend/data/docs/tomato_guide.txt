@@ -1,0 +1,11 @@
+Tomato Cultivation Guide (sample content for the AgriAssist demo; replace with an official extension guide before real use)
+
+Climate and planting. Tomato grows best when daytime temperatures are between 21 and 27 degrees Celsius. Fruit set becomes poor when temperatures stay above about 35 degrees Celsius. Transplant seedlings that are 25 to 30 days old. A common spacing is 60 cm between rows and 45 cm between plants, but follow the recommendation for your variety.
+
+Irrigation. Irrigate at regular intervals and avoid waterlogging. Drip irrigation keeps leaves dry and reduces leaf diseases. Irregular watering during fruiting can cause blossom end rot and cracking.
+
+Early blight. Early blight is caused by the fungus Alternaria solani. Symptoms are dark brown spots with concentric rings, mostly on older lower leaves, which then spread upward. Management: remove and destroy affected lower leaves, avoid overhead irrigation, apply mulch, and rotate away from tomato, potato and brinjal for two to three years. Apply a fungicide such as mancozeb or chlorothalonil only at the rate on the product label and as advised by your local agriculture office.
+
+Leaf curl. Tomato leaf curl virus spreads through whiteflies. Use yellow sticky traps, grow resistant varieties, use healthy seedlings, and remove infected plants early. Control of the whitefly vector is needed because the virus cannot be cured once a plant is infected.
+
+Yellowing leaves. Yellowing of older leaves can indicate nitrogen deficiency, but check first for early blight or other leaf spots, which look similar. A soil test helps confirm a nutrient problem before fertilizer is applied.

@@ -1,0 +1,13 @@
+Rice Cultivation Guide (sample content for the AgriAssist demo; replace with an official extension guide before real use)
+
+Nursery and transplanting. Raise seedlings in a nursery for about 20 to 25 days before transplanting. Transplant two to three seedlings per hill at the spacing recommended for your region and variety.
+
+Nitrogen management. Apply nitrogen in split doses: a basal dose at transplanting, a second dose at active tillering, and a third dose at panicle initiation. Applying too much nitrogen at once increases the risk of blast and lodging. The exact dose depends on a soil test and local recommendations.
+
+Water management. Keep a thin layer of standing water of about 2 to 5 cm during tillering. Alternate wetting and drying (AWD) saves water without reducing yield in many fields. Drain the field about 10 to 14 days before harvest so the grain matures evenly.
+
+Rice blast. Rice blast is caused by the fungus Magnaporthe oryzae. Symptoms are diamond-shaped lesions with grey centres and brown margins on leaves. Avoid excess nitrogen, use resistant varieties, treat seed before sowing, and apply a fungicide only as recommended on the label and by the local agriculture office.
+
+Brown planthopper. Brown planthopper feeds at the base of the plant. Heavy infestation causes hopperburn, where patches of the field turn orange and dry. Drain the field, avoid excess nitrogen, and conserve natural enemies such as spiders. Spray an insecticide only when the local economic threshold is reached and use a product approved for rice.
+
+Zinc deficiency. Zinc deficiency in rice appears as pale or bronze leaves and stunted plants, often in fields that are flooded and low in zinc. Confirm with a soil or plant test before applying zinc, and follow the local recommendation for the dose.

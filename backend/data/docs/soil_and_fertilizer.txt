@@ -1,0 +1,13 @@
+Soil Health and Fertilizer Use (sample content for the AgriAssist demo; replace with an official extension guide before real use)
+
+Soil testing. Test your soil before planting, and then every two to three years. Collect samples from about 15 cm depth in a zig-zag pattern across the field, mix them well, and send a sample to a soil testing laboratory. The Soil Health Card scheme in India provides soil test based recommendations. Fertilizer doses should come from the test result and local recommendation, not from fixed guesses.
+
+Organic matter. Organic matter such as farmyard manure, compost and crop residues improves water holding capacity, soil structure and nutrient supply. Apply well-decomposed farmyard manure or compost before sowing or transplanting.
+
+Nitrogen, phosphorus and potassium. Nitrogen supports leafy growth and is lost easily through leaching and volatilization, so split the dose. Phosphorus supports root development and flowering. Potassium supports fruit quality and stress tolerance. Balanced nutrition gives better results than extra nitrogen alone.
+
+Application practice. Apply fertilizer in split doses where recommended. Avoid applying fertilizer to waterlogged soil or just before heavy rain, because nutrients can be lost. Keep fertilizer away from the stem and mix it into moist soil.
+
+Overuse. Excess nitrogen can cause lush growth that is more prone to pests and disease, and it can lower crop quality. Excess fertilizer also adds cost and can pollute water. Follow recommended doses.
+
+Micronutrients. Deficiencies of zinc, boron and iron can limit yield even when NPK is applied. Symptoms vary by crop. Confirm a deficiency with a soil or plant test before applying a micronutrient, and follow the recommended dose.

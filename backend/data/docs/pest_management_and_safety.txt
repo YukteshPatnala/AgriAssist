@@ -1,0 +1,11 @@
+Integrated Pest Management and Pesticide Safety (sample content for the AgriAssist demo; replace with an official extension guide before real use)
+
+Integrated pest management (IPM). IPM combines monitoring, prevention, natural enemies and, only when needed, pesticides. Scout the field at least once a week. Compare pest counts with the economic threshold for the crop. Prefer biological and cultural methods such as crop rotation, field sanitation, pheromone traps and conserving natural enemies. Rotate pesticides with different modes of action to reduce resistance.
+
+Fall armyworm in maize. Fall armyworm larvae cause ragged holes in leaves and frass (droppings) in the whorl. Scout early in the morning, because larvae feed in the whorl. Use pheromone traps to monitor adult moths. Treat the field only with a product registered for maize in your region and as advised by the local agriculture office.
+
+Pesticide safety. Read the label before buying and before using any pesticide. Wear protective clothing, gloves, a mask and goggles while mixing and spraying. Do not eat, drink or smoke while spraying. Spray with the wind at your back. Wash hands and change clothes after spraying. Store pesticides in their original labelled containers, away from food, animal feed and children. Observe the waiting period (pre-harvest interval) written on the label before harvest.
+
+Signs of pesticide poisoning. Headache, dizziness, excessive sweating, nausea, vomiting, blurred vision, or difficulty breathing can be signs of pesticide poisoning. This is an emergency. Get medical help immediately, call 112, and take the product label with you. Do not induce vomiting unless a doctor or poison centre tells you to.
+
+Spray records. Keep a record of the product name, dose, date, target pest and the weather at spraying. This helps you check whether the treatment worked and supports safe harvest decisions.
